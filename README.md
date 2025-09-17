@@ -1,5 +1,4 @@
 # Telangana-weather-analysis_-Power-BI-Project
-Power BI project showcasing weather trends in Telangana through interactive visuals. Analyzes temperature, rainfall, humidity, and seasonal changes with filters by district and time. Helps identify patterns and supports informed climate-related decisions.
 
 https://docs.google.com/document/d/1DVx7S0QDXhTPMMiNYmx3azTm_rML-kTV/edit?usp=sharing&ouid=111057704714613854389&rtpof=true&sd=true
 
